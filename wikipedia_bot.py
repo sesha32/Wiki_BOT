@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 import wikipedia
 
 # Set your bot token here
-TOKEN = "7351201353:AAGZ8wh-vq9ljBl1Nsj3H8RpdzbH2lhIVk0"
+TOKEN = ""
 
 # Set the default language (optional)
 wikipedia.set_lang("en")
