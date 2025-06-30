@@ -35,4 +35,4 @@
 
 ## 🙋‍♂️ Author
 
-Made by [Sesha satya sai]
+Made by Sesha satya sai
